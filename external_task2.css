@@ -1,0 +1,11 @@
+.a{
+	height:100%;
+	width:25%;
+}
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
